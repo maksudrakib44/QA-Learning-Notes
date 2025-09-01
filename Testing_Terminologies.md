@@ -1,4 +1,5 @@
 Testing Terminologies
+
 🔹 Software Testing
 
 Software Testing is a method to verify whether a software application meets specified requirements and is defect-free. It involves executing components manually or using tools to evaluate behavior and identify differences between actual and expected outcomes.
