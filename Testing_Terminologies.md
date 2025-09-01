@@ -1,66 +1,49 @@
-# Testing Terminologies
+Testing Terminologies
+🔹 Software Testing
 
-##  Software Testing
-Software Testing is a method to verify whether the software application meets specified requirements and is defect-free. It involves executing components manually or using tools to evaluate behavior and identify differences between actual and expected outcomes.  
-:contentReference[oaicite:0]{index=0}
+Software Testing is a method to verify whether a software application meets specified requirements and is defect-free. It involves executing components manually or using tools to evaluate behavior and identify differences between actual and expected outcomes.
 
----
+🔹 Bug / Defect
 
-##  Bug / Defect
-A bug (or defect) is an error, flaw, or unintended issue in a software application that leads to incorrect or unexpected behavior.  
-*(Derived from general software testing resources.)*
+A bug (or defect) is an error, flaw, or unintended issue in a software application that leads to incorrect or unexpected behavior.
 
----
+🔹 Test Case
 
-##  Test Case
-A test case is a set of conditions, inputs, and expected results designed to verify whether a specific software function works correctly.  
-*(Common software QA definition.)*
+A test case is a set of conditions, inputs, and expected results designed to verify whether a specific software function works correctly.
 
----
+🔹 Test Plan
 
-##  Test Plan
-A test plan is a comprehensive document outlining the testing strategy, scope, objectives, resources, schedule, and test deliverables.  
-*(Based on standard QA best practices.)*
+A test plan is a comprehensive document outlining the testing strategy, scope, objectives, resources, schedule, and test deliverables.
 
----
+🔹 Manual Testing
 
-##  Manual Testing
-Manual Testing is the process where testers manually execute test cases without automation tools, verifying functionality through human evaluation of user experience.  
-:contentReference[oaicite:1]{index=1}
+Manual Testing is the process where testers manually execute test cases without automation tools, verifying functionality through human evaluation of user experience.
 
----
+🔹 Automation Testing
 
-##  Automation Testing
-Automation Testing uses tools and scripts to automatically execute test cases, enhancing efficiency and consistency, especially for repetitive tasks.  
-:contentReference[oaicite:2]{index=2}
+Automation Testing uses tools and scripts to automatically execute test cases, enhancing efficiency and consistency, especially for repetitive tasks.
 
----
+🔹 Regression Testing
 
-##  Regression Testing
-Regression Testing involves re-running previous tests after changes to ensure that existing functionality remains intact and unaffected by updates.  
-*(A widely referenced QA concept.)*
+Regression Testing involves re-running previous tests after changes to ensure that existing functionality remains intact and unaffected by updates.
 
----
+🔹 Levels of Testing
 
-##  Levels of Testing
-1. **Unit Testing** – Tests individual components or modules.  
-2. **Integration Testing** – Tests combined modules for correct interaction.  
-3. **System Testing** – Tests the entire system for both functional and non-functional requirements.  
-4. **Acceptance Testing** – Evaluates whether the system meets user or stakeholder requirements.  
-:contentReference[oaicite:3]{index=3}
+Unit Testing – Tests individual components or modules.
 
----
+Integration Testing – Tests combined modules for correct interaction.
 
-##  Black-box Testing
-Black-box Testing assesses software functionality without knowledge of internal code structure. Testers focus solely on inputs and expected outputs.  
-:contentReference[oaicite:4]{index=4}
+System Testing – Tests the entire system for both functional and non-functional requirements.
 
----
+Acceptance Testing – Evaluates whether the system meets user or stakeholder requirements.
 
-##  White-box Testing
-White-box Testing involves examining internal logic, design, and code structure of an application. Test cases are created with visibility into source code and internal paths.  
-:contentReference[oaicite:5]{index=5}
+🔹 Black-box Testing
 
----
+Black-box Testing assesses software functionality without knowledge of internal code structure. Testers focus solely on inputs and expected outputs.
 
-*Note: These definitions are compiled as part of my QA learning journey and are based on reputable QA sources.* 
+🔹 White-box Testing
+
+White-box Testing involves examining internal logic, design, and code structure of an application. Test cases are created with visibility into source code and internal paths.
+
+📌 Note: These definitions are compiled as part of my QA learning journey and are based on reputable QA sources such as Guru99(https://www.guru99.com/)
+, ISTQB references, and standard SQA practices.
